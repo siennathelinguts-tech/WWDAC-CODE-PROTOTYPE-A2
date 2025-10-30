@@ -1,7 +1,5 @@
 # WWDAC-CODE-PROTOTYPE-A2
 # Light Path - Stress Relief Game
-
-
 # ==================== SPEED SELECTION VARIABLES ====================
 # I wanted players to choose their own difficulty level
 # These variables track which speed option the player is on
